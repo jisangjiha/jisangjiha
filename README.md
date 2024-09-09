@@ -9,9 +9,11 @@
 <a href="mailto:jisang1024@gmail.com">
   <img src="https://img.shields.io/badge/gmail-181717?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<!--
 <a href="https://velog.io/@jisangjiha/series">
   <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
+-->
 <a href="https://github.com/jisangjiha">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
